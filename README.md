@@ -4,5 +4,5 @@
 * decorator_3.py - код декоратора по третьему заданию
 ---
 * main.log - файл по первому заданию
-* log_1, log_2, log_3 - файлы по второму заданию
-* get_article_text.log, get_articles - файлы по третьему заданию
+* log_1.log, log_2.log, log_3.log - файлы по второму заданию
+* get_article_text.log, get_articles.log - файлы по третьему заданию
